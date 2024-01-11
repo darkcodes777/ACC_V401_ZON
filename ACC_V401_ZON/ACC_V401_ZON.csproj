@@ -8,8 +8,14 @@
   </PropertyGroup>
 
   <ItemGroup>
-    <Folder Include="Enti_Piazzale\" />
-    <Folder Include="Enti_Cabina\" />
+    <Folder Include="Enti_Cabina\BA\" />
+    <Folder Include="Enti_Cabina\BCA\" />
+    <Folder Include="Itinerari\" />
+    <Folder Include="Z_Documentazione\" />
+    <Folder Include="TML\" />
+    <Folder Include="QLv\" />
+    <Folder Include="SCC\" />
+    <Folder Include="RBC\" />
   </ItemGroup>
 
 </Project>
